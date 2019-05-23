@@ -1,10 +1,9 @@
 # Programa dos dados
 # Marco André Mendes <marcoandre@gmail.com>
-# 23/05/2019
 
 import random
 
-print("Jogo de Dados (v.0.2)")
+print("Jogo de Dados (v.0.1")
 
 dados1 = random.randint(1, 6)
 dados2 = random.randint(1, 6)
