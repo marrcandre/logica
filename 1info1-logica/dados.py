@@ -1,5 +1,5 @@
 # Programa dos dados
-# Marco André Mendes <marcoandre@gmail.com>
+# Marco André Mendes <marcoa.mendes@ifc.edu.br>
 # 23/05/2019
 
 import random
