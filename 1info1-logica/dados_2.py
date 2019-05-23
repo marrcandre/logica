@@ -3,7 +3,7 @@
 
 import random
 
-print("Jogo de Dados (v.0.3)")
+print("Jogo de Dados (v.0.4)")
 
 dados1 = random.randint(1, 6)
 dados2 = random.randint(1, 6)
